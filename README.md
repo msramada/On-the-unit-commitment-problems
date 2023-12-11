@@ -1,4 +1,4 @@
-### On the unit commitment problem
+## On the unit commitment problem
 This notebook contains the dynamic programming solution to a 2-unit commitment problem.
 
 The notation, state transition dynamics and cost, follow that in:
